@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(90, 186, 218);
+    font-size: 80%;
+    letter-spacing: 0.15em;
+    text-align: center;
+}
+div {
+    border: 5px outset rgb(35, 106, 199);
+    background-color: rgb(90, 186, 218);
+    text-align: center;
+    width: auto;
+    height: 500px;
+}
+#Share, #amco {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+}
+#shareFront, #amcoFront {
+    width: 5px;
+    height: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+#shareInside, #amcoInside {
+    width: 1px;
+    height: 1px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 890px;
+    margin-right: 6px;
+}
+
+p {
+    width: 500px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    width: 40%;
+    border:1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link {
+    color: rgb(16, 8, 8);
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+}
